@@ -6,7 +6,5 @@
 #
 name: todoapi
 services:
-- name: todoapi
-  project: TodoApi/TodoApi.csproj
 - name: todo-web-server
   project: Todo.Web/Server/Todo.Web.Server.csproj
